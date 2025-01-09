@@ -69,14 +69,6 @@ python main.py
 
 ---
 
-### Resultado esperado
-
-El archivo filtrado `(2)` tendrá columnas ordenadas y ajustadas, como se muestra en el ejemplo:
-
-![Ejemplo de archivo filtrado](docs/ejemplo_filtrado.png)
-
----
-
 ### Licencia
 
 Este proyecto está licenciado bajo la [MIT License](LICENSE).
